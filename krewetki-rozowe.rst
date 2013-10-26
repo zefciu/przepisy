@@ -25,7 +25,7 @@ Sos
 * 2 łyżeczki mąki kukurydzianej
 
 Wykonanie
-""""""""""""""""""""""""""""""''
+""""""""""""""""""""""""""""""
 
 #. Składniki sosu wymieszać i odstawić.
 
