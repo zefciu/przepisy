@@ -18,7 +18,7 @@ Składniki
 Przygotowanie
 """""""""""""""""""""""""""""""""""
 
-#. Mleko, margaryny, ½ szklanki cukru i cukier waniliowy zagotować i ostudzić.
+#. Mleko, margarynę, ½ szklanki cukru i cukier waniliowy zagotować i ostudzić.
 #. Dodać ½ szklanki mąki, jajka i drożdże.
 #. Odstawić na 40 min do wyrośnięcia.
 #. Dodać 2 szklanki mąki, wymieszać i wyłożyć na blachę.
