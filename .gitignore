@@ -1,3 +1,7 @@
 *.odt
 *.html
 *.pdf
+*.aux
+*.out
+*.log
+*.latex
